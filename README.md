@@ -1,4 +1,3 @@
-# CH_2023_Final_POC_Team3
 # Book My Seat Web Platform Documentation
 
 ## Overview
