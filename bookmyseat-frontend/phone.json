@@ -1,0 +1,53 @@
+{
+"projects": [
+  {
+      "id": 1,
+      "projectName": "Campus Trainee",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  },
+  {
+      "id": 2,
+      "projectName": "RMG",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  },
+  {
+      "id": 3,
+      "projectName": "Others",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  },
+  {
+      "id": 4,
+      "projectName": "Louis Vuitton",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  },
+  {
+      "id": 5,
+      "projectName": "HR",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  },
+  {
+      "id": 6,
+      "projectName": "IT",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  },
+  {
+      "id": 7,
+      "projectName": "MANAGERS",
+      "startDate": "2024-02-05",
+      "createdDate": "2024-02-05T12:00:00",
+      "modifiedDate": null
+  }
+]
+}

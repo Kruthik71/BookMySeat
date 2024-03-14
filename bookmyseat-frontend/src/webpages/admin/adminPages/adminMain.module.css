@@ -1,0 +1,12 @@
+.mainContainer {
+  margin-top: 80px;
+  display: flex;
+}
+
+.mainContainer > :first-child {
+  width: 70px;
+}
+
+.mainContainer > :last-child {
+  width: calc(100% - 70px);
+}

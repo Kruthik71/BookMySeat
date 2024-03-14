@@ -1,0 +1,51 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "employeeId": 5718,
+            "firstName": "Kruthik",
+            "lastName": "Bhupal",
+            "email": "kruthik.b@valtech.com",
+            "phoneNumber": 9916878237,
+            "password": "$2a$10$V5zon2rFI44w4AWHt.jxQOQc4lq/nEa8wyU7BYfnH00d.guaDTD7e",
+            "registeredStatus": "APPROVED",
+            "createdDate": null,
+            "modifiedDate": null,
+            "project": {
+                "id": 1,
+                "projectName": "Campus Trainee",
+                "startDate": "2024-02-05",
+                "createdDate": "2024-02-05T12:00:00",
+                "modifiedDate": null
+            },
+            "role": {
+                "id": 2,
+                "roleName": "EMPLOYEE"
+            }
+        },
+        {
+            "id": 2,
+            "employeeId": 5724,
+            "firstName": "Murali",
+            "lastName": "Raj",
+            "email": "murali.kr@valtech.com",
+            "phoneNumber": 9353539655,
+            "password": "$2a$10$bNuFphOcZ25eMM1.kNNO4uoRb1F2GXUXKgJ8xa1Tmo1CHKTLowkIu",
+            "registeredStatus": "APPROVED",
+            "createdDate": null,
+            "modifiedDate": null,
+            "project": {
+                "id": 1,
+                "projectName": "Campus Trainee",
+                "startDate": "2024-02-05",
+                "createdDate": "2024-02-05T12:00:00",
+                "modifiedDate": null
+            },
+            "role": {
+                "id": 2,
+                "roleName": "EMPLOYEE"
+            }
+        }
+    ]
+    
+}

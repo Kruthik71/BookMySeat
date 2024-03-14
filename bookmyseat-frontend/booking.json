@@ -1,0 +1,53 @@
+{
+    "booking": [
+        {
+    "id": 1,
+    "bookingRange": "DAILY",
+    "startDate": "2024-02-19",
+    "endDate": "2024-02-19",
+    "createdDate": null,
+    "bookingStatus": true,
+    "allowEditAndCancel": false,
+    "verificationCode": 0,
+    "user": {
+        "id": 1,
+        "employeeId": 5718,
+        "firstName": "Kruthik",
+        "lastName": "Bhupal",
+        "email": "kruthik.b@valtech.com",
+        "phoneNumber": 9916878237,
+        "password": "$2a$10$V5zon2rFI44w4AWHt.jxQOQc4lq/nEa8wyU7BYfnH00d.guaDTD7e",
+        "registeredStatus": "APPROVED",
+        "createdDate": null,
+        "modifiedDate": null,
+        "project": {
+            "id": 4,
+            "projectName": "Louis Vuitton",
+            "startDate": "2024-02-05",
+            "createdDate": "2024-02-05T12:00:00",
+            "modifiedDate": null
+        },
+        "role": {
+            "id": 2,
+            "roleName": "EMPLOYEE"
+        }
+    },
+    "seat": {
+        "id": 507,
+        "seatNumber": 1,
+        "availability": false,
+        "floor": {
+            "id": 6,
+            "floorName": "Training Room Terrace",
+            "building": {
+                "id": 1,
+                "buildingName": "Mass Unique",
+                "locationName": "Bangalore",
+                "createdDate": "2024-02-05T12:00:00",
+                "modifiedDate": null
+            }
+        },
+        "restrictedSeat": null
+    }
+}
+]}
