@@ -46,7 +46,7 @@ Seamless integration with existing office management systems and calendar applic
 - Backend: MySQL/SQL JDBC Template, Spring Boot
 
 ## Installation
-1. Clone the repository: git clone https://github.com/IN-Valtech/CH_2023_Java_Team3.git
+1. Clone the repository: git clone https://github.com/Kruthik71/BookMySeat.git
 2. Set up the MySQL database and configure the connection in the application.
 3. Navigate to the project directory and run the application: mvn clean spring-boot:run
 4. Access the application at Backend-[http://localhost:9006](http://localhost:9006), Frontend-[http://localhost:3000](http://localhost:3000)
